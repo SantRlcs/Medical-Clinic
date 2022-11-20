@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8"/>
+		<title>Medical Clinic</title>
+		<!--esse aqui é para chamar o css-->
+		<link rel="stylesheet" href="../CSS/espec.css" type="text/css">
+		<link rel="icon" href="../IMG/logonovo.png">
+
+  </head>
+  <body>
+<nav class="dp-menu">
+<ul>
+<li><a href="../index.html">.&nbsp;HOME &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</a></li>
+<li><a href="quemsomos.html">.&nbsp;QUEM SOMOS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li>
+<li><a href="especialidades.html">.&nbsp;ESPECIALIDADES &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </a></li>
+<li><a href="duvidas.html">.&nbsp;DÚVIDAS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </a></li>
+<li><a href="#">.&nbsp;CADASTRO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a>
+<ul>
+
+<li><a href="paciente.html">.PACIENTES</a></li>
+<li><a href="profissional.html">.FUNCIONÁRIOS</a></li>
+
+</ul>
+</li>
+
+
+</ul>
+</nav>
+ 
+ <aside id="logo">
+  </aside>
+  
+  
+  <aside id="quad1">
+  </aside>
+
+ <footer id="text1">Especialidades da Medical Clinic</footer>
+ 
+ 
+ 
+ 
+ <aside id="endo">
+  </aside>
+  
+  <footer id="text2">Endocrinologia</footer>
+  
+  <footer id="text3">A Endocrinologia é a especialidade médica que cuida dos transtornos das glândulas endócrinas. As glândulas endócrinas são órgãos que secretam substâncias no sangue, conhecidas como hormônios. A Endocrinologia visa reconhecer e tratar os problemas com esses hormônios, ajudando a restabelecer o equilíbrio do organismo.</footer>
+  
+  <aside id="barra1">
+  </aside>
+  
+  <aside id="medfet">
+  </aside>
+  
+  <footer id="text4">Medicina Fetal </footer>
+  
+  <footer id="text5">A medicina fetal é a especialidade que acompanha a saúde do bebê, do início da gravidez até o parto.
+<br></br>
+Nessa especialidade, a realização de exames ultrassonográficos e até mesmo de alguns procedimentos invasivos (quando necessário), possibilitam um adequado aconselhamento gestacional e genético.
+<br></br>
+A medicina fetal possibilita detectar alterações precoces durante a embriogênese (formação do embrião no início da gravidez) permitindo acompanhar se o crescimento e o desenvolvimento do bebê estão adequados da sua formação até o parto, e o risco de prematuridade pode ser avaliado através da medida ultrassonográfica do colo uterino.</footer>
+  
+  <aside id="barra2">
+  </aside>
+
+  
+  
+  <aside id="quad4">
+ </aside>
+ 
+ <footer id="text11"> 2022 @ MEDICAL CLINIC • TODOS OS DIREITOS RESERVADOS </footer>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ </body>
+ </html>

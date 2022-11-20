@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
+
+*{
+margin: 0;
+padding: 0;
+}
+body{
+background-color: white;
+}
+
+form{
+background-color: 	#008B8B;
+width: 37%;
+height: 595px;
+position: absolute;	
+top: 68% ;
+left: 75.5%;
+transform: translate(-50%,-50%);
+border-radius: 7px;
+border: 1.5px solid #ccc;
+}
+form p{
+	margin-left: 2%;
+	color: #ffffff;
+	font-family: times new roman;
+	font-size: 17px;
+}
+#cidadao{
+	margin-left: 2%;
+	font-size: 24px;
+}
+form h1{
+	font-family: times new roman;
+	font-size: 33px;
+	color: #ffffff;
+	margin-top:1%;
+	margin-left: 2%;
+	text-align: center;
+}
+#text1{
+	margin-left: 2%;
+	font-family: times new roman;
+	font-size: 19px;
+	color: #ffffff;
+}
+#text2{
+	margin-left: 2%;
+	font-family: times new roman;
+	font-size: 18px;
+	color: #ffffff;
+}
+#text3{
+	margin-left: 2%;
+	font-family: times new roman;
+	font-size: 18px;
+	color: #ffffff;
+}
+#text4{
+	margin-top: 18px;
+	margin-left: 2%;
+	font-family: times new roman;
+	font-size: 18px;
+	color: #ffffff;
+}
+#text5{
+	font-family: times new roman;
+	font-size: 18px;
+	color: #ffffff;
+}
+form input[type=text], 
+input[type=checkbox],
+input[type=password]{
+	margin-top: 2%;
+	background-color: #F0F8FF;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	margin-left: 2%;
+	height:35px;
+}
+#options{
+	font-family: times new roman;
+	background-color: #F0F8FF;
+	font-size: 15.7px;
+	color: #696969;
+	margin-top: 1.8%;
+	margin-left: 2%;
+	height: 35px;
+	width: 96.6%;
+	border:  1px solid #ccc;
+	border-radius: 5px;
+}
+#cadas{
+	font-family: times new roman;
+	font-size: 19px;
+	width: 65%;
+	height: 29px;
+	background-color: 		#4682B4;
+	color: #ffffff;
+	border-radius: 7px;
+	border: 1.1px solid #ccc;
+}
+#cadas:hover{
+	background-color: #2F4F4F;
+	color: #ffffff;
+		transition: 2s;
+}
+.barra{
+	margin-top: -37%;
+	margin-left: 50.7% ;
+	background-color: #ccc;
+	width: 0.1%;
+	height: 620px;
+}
+img{
+margin-top: 15%;
+margin-left: 7%;
+width: 38%;
+height: 615px;
+border-radius: 10px;
+}
+#certificado{
+	width: 30%;
+	margin-top: -2.9%;
+	margin-left: 20%;
+}
+#choose{
+	width: 40%;
+	height: 20px;
+	margin-top: 3%;
+	margin-left: 50%;
+	border-radius: 5px;
+	background-color: #DCDCDC;
+}
+#choose:hover{
+	background-color: #778899;
+	color: #ffffff;
+}
+
+
+.dp-menu ul{
+list-style-type:none;
+padding: 0;
+margin-left:33%;
+margin-top:2%;	
+
+}	
+
+.dp-menu ul li{
+	
+display: inline;	
+position:relative;	
+	
+}	
+
+
+.dp-menu ul li a{
+	
+display: inline-block;	
+color:	#20B2AA;	
+text-decoration:none;
+font-size:17px;
+ font-family: 'Open Sans', sans-serif;
+padding:2px; 
+}
+
+.dp-menu ul ul{
+	
+display:none;
+position:absolute;	
+left:0;	
+	
+}
+
+
+
+.dp-menu ul li:hover ul{
+	
+display: block;	
+
+	
+	
+}	
+
+.dp-menu ul ul{
+width: 150px;	
+}
+
+
+
+.dp-menu ul ul li a{
+	
+display:block;
+
+	
+	
+}
+
+
+#logo{	
+position: absolute;
+width:30%;
+background-image: url(../IMG/logov.png);
+height: 125px;
+margin-top:-3.5%;
+background-repeat: no-repeat;
+margin-left: 0%;
+background-size: 100% 100% ;
+
+}
+
+#quad1{
+position: absolute;
+width:24%;
+height: 100px;
+margin-top:4%;
+background-repeat: no-repeat;
+background-size: 100% 100% ;
+overflow: hidden;
+background:none;
+border: 1px solid black;
+margin-left:38%;
+}
+
+#text7{
+position:absolute;	
+font-size: 50px;
+font-family: 'Dancing Script', cursive;
+color:#66CDAA;
+margin-top:5%;
+margin-left:39%;
+width:40%;
+height:20%;
+
+}
+
+#quad4{
+position: relative;
+width:456.7%;
+height: 40px;
+margin-top:20%;
+margin-left: -340%;
+background-size: 100% 100% ;
+background-color:	#66CDAA;
+}
+
+
+#text11{
+position:absolute;	
+font-size: 17px;
+font-family:arial;
+color:white	;
+margin-top:-4%;
+margin-left:-41%;
+width:100%;
+height:1%;
+
+}
+

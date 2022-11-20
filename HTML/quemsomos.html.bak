@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8"/>
+		<title>Medical Clinic</title>
+		<!--esse aqui é para chamar o css-->
+		<link rel="stylesheet" href="../CSS/quems.css" type="text/css">
+		<link rel="icon" href="../IMG/logonovo.png">
+
+  </head>
+  <body>
+<nav class="dp-menu">
+<ul>
+<li><a href="../index.html">.&nbsp;HOME &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</a></li>
+<li><a href="quemsomos.html">.&nbsp;QUEM SOMOS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a></li>
+<li><a href="especialidades.html">.&nbsp;ESPECIALIDADES &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </a></li>
+<li><a href="duvidas.html">.&nbsp;DÚVIDAS &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </a></li>
+<li><a href="#">.&nbsp;CADASTRO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</a>
+<ul>
+
+<li><a href="paciente.html">.PACIENTES</a></li>
+<li><a href="profissional.html">.FUNCIONÁRIOS</a></li>
+
+</ul>
+</li>
+
+
+</ul>
+</nav>
+ 
+ <aside id="logo">
+  </aside>
+ 
+
+ <aside id="quad1">
+  </aside>
+
+ <footer id="text1">QUEM SOMOS</footer>
+ 
+ <footer id="text2"> • A Medical Clinic é uma multinacional simples, que foi fundada em 2036 por uma ação de diversos bilionários filantropos, e em 2038, 4 dos 5 deixaram o projeto nas mãos do último sócio eminente Vladimir Vladimirovitch Putin um dos maiores bilionários do mundo atual, porém com posse total da Medical Clinic Putin tornou o projeto filantrópico em uma empresa privada de estudos tecnológicos em medicina e estudos em medicina pura. Contudo Putin, com base em diversos investimentos, fez a empresa crescer tanto em questão de mercado, que quase se tornou um monopólio mundial, em brigas judiciais os antigos fundadores da Medical Clinic, tentaram reter as ações da empresa, sem sucesso. 
+<p>
+<br></br>
+ • A Medical Clinic foi fundada em Washington D.C, e sua sede atual se encontra em Istambul na Ásia Menor (Turquia). 
+<p>
+<br></br>
+ • Hoje, como multinacional, a Medical Clinic faz por volta de 1.000.000.000 de dólares de renda líquida por mês, se tornando a rede de saúde privada mais rica do mundo. Eles estão no mercado desde sua fundação, ou seja, 13 anos. O objetivo real da empresa é distribuir uma saúde privada de alta eficiência em âmbito mundial. </footer>
+ 
+ <aside id="quad4">
+ </aside>
+ 
+ <footer id="text11"> 2022 @ MEDICAL CLINIC • TODOS OS DIREITOS RESERVADOS </footer>
+
+ 
+</body>
+</html>

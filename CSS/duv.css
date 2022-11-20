@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
+*{
+margin: 0;
+padding: 0;
+	
+	
+	
+	
+}
+
+.dp-menu ul{
+list-style-type:none;
+padding: 0;
+margin-left:33%;
+margin-top:2%;	
+
+}	
+
+.dp-menu ul li{
+	
+display: inline;	
+position:relative;	
+	
+}	
+
+
+.dp-menu ul li a{
+	
+display: inline-block;	
+color:	#20B2AA;	
+text-decoration:none;
+font-size:17px;
+ font-family: 'Open Sans', sans-serif;
+padding:2px; 
+}
+
+.dp-menu ul ul{
+	
+display:none;
+position:absolute;	
+left:0;	
+	
+}
+
+
+
+.dp-menu ul li:hover ul{
+	
+display: block;	
+
+	
+	
+}	
+
+.dp-menu ul ul{
+width: 150px;	
+}
+
+
+
+.dp-menu ul ul li a{
+	
+display:block;
+
+	
+	
+}
+
+
+#logo{	
+position: absolute;
+width:30%;
+background-image: url(../IMG/logov.png);
+height: 125px;
+margin-top:-3.5%;
+background-repeat: no-repeat;
+margin-left: 0%;
+background-size: 100% 100% ;
+
+}
+
+#quad1{
+position: absolute;
+width:20%;
+height: 100px;
+margin-top:8%;
+background-repeat: no-repeat;
+background-size: 100% 100% ;
+overflow: hidden;
+background:none;
+border: 1px solid black;
+margin-left:40%;
+}
+
+#text1{
+position:absolute;	
+font-size: 50px;
+font-family: 'Dancing Script', cursive;
+color:#66CDAA;
+margin-top:9.5%;
+margin-left:45.5%;
+width:40%;
+height:20%;
+
+}
+
+form{
+	
+width:50%;
+margin: 0 auto;
+margin-top:35%;	
+	
+	
+}	
+
+input, textarea{
+	
+width:100%;	
+padding:20px;
+margin-bottom:1em;
+font: 1em sans-serif;
+border: 1px solid #999;	
+}
+
+button{
+margin-left: 2.5%;	
+background-color:#66CDAA;	
+border-radius:5px;
+color:white;	
+border:none;
+padding:15px;
+width:100%;	
+}	
+
+#quad4{
+position: relative;
+width:100%;
+height: 40px;
+margin-top:10%;
+background-repeat: no-repeat;
+background-size: 100% 100% ;
+background-color:	#66CDAA;
+}
+
+
+#text11{
+position:relative;	
+font-size: 15px;
+font-family:arial;
+color:white	;
+margin-top:-1.7%;
+margin-left:37%;
+width:35%;
+height:20%;
+
+}
+
+#text14{
+position:absolute;	
+font-size: 17px;
+font-family: Arial;
+color:black;
+margin-top:-67%;
+margin-left:25%;
+width:50%;
+height:30%;
+text-align:center;
+
+}
